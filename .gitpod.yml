@@ -1,0 +1,3 @@
+tasks:
+    - init: chmod -R a+x scripts
+    - command: export PATH=$GITPOD_REPO_ROOT/scripts:$PATH

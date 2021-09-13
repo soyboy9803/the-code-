@@ -1,0 +1,1 @@
+export PATH=$GITPOD_REPO_ROOT/scripts:$PATH
